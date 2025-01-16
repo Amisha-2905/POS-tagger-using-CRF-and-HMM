@@ -1,0 +1,56 @@
+Analysis of Hidden Markov Model (HMM) for English POS Tagging
+
+Precision: 0.72
+Recall: 0.68
+F1 Score: 0.65
+
+Confusion Matrix - English HMM
+
+       Predicted
+     |  0   |  1   |
+True |------|------|
+  0  |  140 |  1   |
+  1  |  0   |  38  |
+
+Analysis of Conditional Random Field (CRF) for English POS Tagging
+
+Precision: 0.73
+Recall: 0.77
+F1 Score: 0.75
+
+Confusion Matrix - English CRF
+
+       Predicted
+     |  0   |  1   |
+True |------|------|
+  0  |  135 |  1   |
+  1  |  1   |  35  |
+
+Analysis of Hidden Markov Model (HMM) for Hindi POS Tagging
+
+Precision: 0.72
+Recall: 0.61
+F1 Score: 0.62
+
+Confusion Matrix - Hindi HMM
+
+       Predicted
+     |  0   |  1   |
+True |------|------|
+  0  |  21  |  2   |
+  1  |  1   |  1   |
+
+Analysis of Conditional Random Field (CRF) for Hindi POS Tagging
+
+Precision: 0.67
+Recall: 0.69
+F1 Score: 0.68
+
+Confusion Matrix - Hindi CRF
+
+       Predicted
+     |  0   |  1   |
+True |------|------|
+  0  |  21  |  2   |
+  1  |  1   |  1   |
+
