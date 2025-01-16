@@ -23,9 +23,3 @@ The model is trained on the basis of Hindi_data.txt  with respect to template.tx
 ## analysis.py
 
 The code in this file calculates the Recall, Precision and F1 score and then generates the confused matrix for all of the four models and saves everything in analysis.txt .
-
-## The OneDrive link for model files
-
-The model files are inside the following link:
-
-https://iiitaphyd-my.sharepoint.com/:f:/g/personal/amisha_amisha_research_iiit_ac_in/EnR7uwvB_jVAvwIlH973YFkBPz4k5qO_uD8VuS-pJDR4Aw?e=FXWh5f
